@@ -2,7 +2,17 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #C48B5E;
+  --primary:  #8a867a;
+  --secondary: #19bfb9;
+  --accent: #cbb5a8;
+  --neutral: #19bbd8;
+  /* secondary colors */
+  --base-100: #0a2e36;
+  --base-200: #56876d;
+  --base-300: #C88819;
+  --base-400: #D4E79E;
+  --base-500: #64E9EE;
 }
 
 @theme inline {
